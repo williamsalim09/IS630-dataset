@@ -1,4 +1,4 @@
-﻿Country,ISO,Year,TFR,"Marriage Rate (per 1,000)",Female LFPR (%),Tertiary Enrolment (%),House Price Index,Median Income (LCU),Real Income Index (1984=1),PIR [Computed],CPI (2010=100),CPI_Indexed (1984=100),GNI per Capita (USD),GDP per Capita (USD),ln(GDP per Capita),Urban Pop (%),Policy Spending (% GDP)
+﻿Country,ISO,Year,TFR,"Marriage Rate (per 1,000)",Female LFPR (%),Tertiary Enrolment (%),House Price Index,Median Income (LCU),Real Income Index (1984=1),PIR [Computed],CPI (2010=100),CPI Indexed (1984=100),GNI per Capita (USD),GDP per Capita (USD),ln(GDP per Capita),Urban Pop (%),Policy Spending (% GDP)
 Indonesia,IDN,1984,3.845,8.5,44.8,5.8,100,330020,1,1,8.78,100,530,540,6.292,28,0.02
 Indonesia,IDN,1985,3.72,8.55,45.1,6,100.48,363682,1.0131,0.9918,9.55,108.77,540,560,6.328,28.9,0.02
 Indonesia,IDN,1986,3.595,8.6,45.4,6.2,101.06,405505,1.0788,0.9368,10,113.9,550,585,6.372,29.9,0.02
